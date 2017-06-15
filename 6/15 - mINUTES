@@ -1,0 +1,13 @@
+Check resynthsized files with the sigmoid model
+Change gamma and check and compare sounds -> it should be better than the last time
+
+Audio book
+  19 hours of speech
+  Download noise datasets-> check grant
+  Mix audio to noise ->
+    Add
+    check level
+    check not to clip,  -> cannot recover
+      -1 to -1
+      if both -.5 to .5 then simple adding would do
+      else have to normalize somwhow
